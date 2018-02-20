@@ -10,6 +10,28 @@ ENV/
 .python-version
 .pyc
 
+# RStudio
+*.RData
+*.Rhistory
+
+# Images #
+##########
+*.png
+*.PNG
+*.jpg
+*.jpeg
+*.pdf
+
+# Docs and Prezis #
+###################
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.txt
+*.rtf
+
+
 # Packages #
 ############
 *.7z
